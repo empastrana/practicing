@@ -2,4 +2,4 @@
 
 ## Emily's Favorite Movies
 - Christmas Vacation
--Itlian Job
+- Italian Job
